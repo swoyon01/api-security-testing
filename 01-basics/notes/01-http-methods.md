@@ -311,7 +311,8 @@ All practice used the public API at `https://jsonplaceholder.typicode.com`. This
 ```
 GET https://jsonplaceholder.typicode.com/posts/1
 ```
-<img width="2560" height="1368" alt="image" src="https://github.com/user-attachments/assets/808a33ed-10ff-45ab-9361-d046bfa1922d" />
+<img width="1280" height="684" alt="Screenshot 2026-09-01 201617" src="https://github.com/user-attachments/assets/64cb2880-6082-4ee6-b9e1-b4bbe344a52e" />
+
 
 **Result:** `200 OK`, response time 650 ms, JSON body returned.
 
@@ -336,7 +337,8 @@ Content-Type: application/json
 }
 ```
 
-<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/da9294b9-b58d-4950-8216-0a6190cfd4e1" />
+<img width="1280" height="684" alt="Screenshot 2026-09-01 195053" src="https://github.com/user-attachments/assets/5dd535ad-3afd-441c-94e6-1b9d617dc34f" />
+
 
 **Result:** `201 Created`, response time 655 ms, new `id: 101` assigned by the server.
 
@@ -361,7 +363,8 @@ Content-Type: application/json
 }
 ```
 
-<img width="1280" height="684" alt="Screenshot 2026-09-03 050322" src="https://github.com/user-attachments/assets/4fc0845d-76ec-443c-8027-9b20ed7d01f3" />
+<img width="1280" height="684" alt="Screenshot 2026-09-03 050322" src="https://github.com/user-attachments/assets/77aec52b-8f82-4009-aaa0-9e534b6371a6" />
+
 
 **Result:** `200 OK`, response time 1.10 s, `id` stayed 10.
 
@@ -387,7 +390,8 @@ Content-Type: application/json
 }
 ```
 
-<img width="1280" height="684" alt="Screenshot 2026-09-03 051517" src="https://github.com/user-attachments/assets/aa5f7a78-6e77-40bb-bfb3-e504c1958ce3" />
+<img width="1280" height="684" alt="Screenshot 2026-09-03 051517" src="https://github.com/user-attachments/assets/19e9f83b-77c9-4d7a-b728-fb960fc8c73f" />
+
 
 **Result:** `200 OK`, response time 1.10 s.
 
@@ -408,7 +412,8 @@ Content-Type: application/json
 DELETE https://jsonplaceholder.typicode.com/posts/10
 ```
 
-<img width="1280" height="684" alt="Screenshot 2026-09-03 052246" src="https://github.com/user-attachments/assets/24fab316-2699-4c3c-b56a-2650f55d1f2b" />
+<img width="1280" height="684" alt="Screenshot 2026-09-03 052246" src="https://github.com/user-attachments/assets/70997e7a-03be-4584-b1b0-0f4db1d0f6a3" />
+
 
 **Result:** `200 OK`, response body `{}`, response time 974 ms.
 
