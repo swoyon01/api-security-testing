@@ -311,6 +311,7 @@ All practice used the public API at `https://jsonplaceholder.typicode.com`. This
 ```
 GET https://jsonplaceholder.typicode.com/posts/1
 ```
+<img width="2560" height="1368" alt="image" src="https://github.com/user-attachments/assets/808a33ed-10ff-45ab-9361-d046bfa1922d" />
 
 **Result:** `200 OK`, response time 650 ms, JSON body returned.
 
@@ -335,6 +336,8 @@ Content-Type: application/json
 }
 ```
 
+<img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/da9294b9-b58d-4950-8216-0a6190cfd4e1" />
+
 **Result:** `201 Created`, response time 655 ms, new `id: 101` assigned by the server.
 
 **Observations**
@@ -357,6 +360,8 @@ Content-Type: application/json
   "body": "Learning HTTP methods: GET, POST, PUT, DELETE"
 }
 ```
+
+<img width="1280" height="684" alt="Screenshot 2026-09-03 050322" src="https://github.com/user-attachments/assets/4fc0845d-76ec-443c-8027-9b20ed7d01f3" />
 
 **Result:** `200 OK`, response time 1.10 s, `id` stayed 10.
 
@@ -382,6 +387,8 @@ Content-Type: application/json
 }
 ```
 
+<img width="1280" height="684" alt="Screenshot 2026-09-03 051517" src="https://github.com/user-attachments/assets/aa5f7a78-6e77-40bb-bfb3-e504c1958ce3" />
+
 **Result:** `200 OK`, response time 1.10 s.
 
 **Observations**
@@ -400,6 +407,8 @@ Content-Type: application/json
 ```http
 DELETE https://jsonplaceholder.typicode.com/posts/10
 ```
+
+<img width="1280" height="684" alt="Screenshot 2026-09-03 052246" src="https://github.com/user-attachments/assets/24fab316-2699-4c3c-b56a-2650f55d1f2b" />
 
 **Result:** `200 OK`, response body `{}`, response time 974 ms.
 
