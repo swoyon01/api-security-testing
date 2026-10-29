@@ -98,7 +98,7 @@ A detailed step-by-step plan with weekly goals is in [ROADMAP.md](ROADMAP.md).
 | Category | Folder | Done | In progress | Not started |
 |----------|--------|:----:|:-----------:|:-----------:|
 | Basics (HTTP, REST, JSON) | `01-basics` | 3 | 0 | 1 |
-| Tools setup | `02-tools-setup` | 0 | 3 | 0 |
+| Tools setup | `02-tools-setup` | 3 | 1 | 0 |
 | Authentication | `03-authentication` | 2 | 0 | 2 |
 | Authorization | `04-authorization` | 0 | 0 | 3 |
 | Common vulnerabilities | `05-common-vulnerabilities` | 0 | 1 | 5 |
