@@ -70,9 +70,9 @@ The path is ordered. Each phase builds on the one before it.
 
 | Phase | Topics | Folder | Status |
 |:-----:|--------|--------|:------:|
-| **0** | Setup — Burp, Postman, Docker, lab environments | [`02-tools-setup`](02-tools-setup/) | 🟡 |
+| **0** | Setup — Burp, Postman, Docker, lab environments | [`02-tools-setup`](02-tools-setup/) | ✅ |
 | **1** | Web & HTTP fundamentals, REST APIs, JSON | [`01-basics`](01-basics/) | ✅ |
-| **2** | Tools — Burp Suite, Postman, curl | [`02-tools-setup`](02-tools-setup/) | 🟡 |
+| **2** | Tools — Burp Suite, Postman, curl | [`02-tools-setup`](02-tools-setup/) | ✅ |
 | **3** | API reconnaissance — Swagger/OpenAPI, endpoint discovery | [`09-recon`](09-recon/) | ⬜ |
 | **4** | Authentication — API keys, sessions, brute force, 2FA | [`03-authentication`](03-authentication/) | ✅ |
 | **5** | JWT attacks — `alg:none`, weak secrets, `kid`, algorithm confusion | [`03-authentication`](03-authentication/) | ✅ |
