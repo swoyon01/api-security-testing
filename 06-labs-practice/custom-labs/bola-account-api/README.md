@@ -124,9 +124,6 @@ Content-Type: application/json
 This account is not present in the lab data. The `404` response does
 not demonstrate an authorization check.
 
-### Screenshot: vulnerable requests
-
-![Vulnerable API requests and responses](vulnerable.png)
 
 ## Part 2: Enable the ownership check
 
@@ -175,9 +172,6 @@ curl -i -H "X-Lab-User: bob" http://127.0.0.1:8000/accounts/102
 | Bob requests Bob's account | Not separately recorded | 200 OK |
 | Alice requests nonexistent account | 404 Not Found | Not separately recorded |
 
-### Screenshot: ownership-check mode
-
-![Server log showing ownership-check mode and response codes](ownership-check.png)
 
 The screenshot shows the server running with `secure=True` and
 responses of `200`, `403`, and `200`. The server log does not show
