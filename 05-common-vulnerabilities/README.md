@@ -3,7 +3,7 @@
 ## Checklist
 - [x] SQL injection labs (PortSwigger)
 - [ ] SQL injection in JSON bodies and headers
-- [ ] XSS through API responses
+- [x] XSS through API responses (PortSwigger)
 - [ ] NoSQL injection
 - [ ] SSRF — internal addresses, blind SSRF (API7)
 - [ ] Rate limiting and 429 bypass (API4)
