@@ -4,8 +4,8 @@
 
 ## 📖 Checklist
 
-- [x] PortSwigger authentication labs (4 solved) → [`labs/`](labs/)
-- [x] PortSwigger JWT attack labs (3 solved) → [`labs/`](labs/)
+- [x] PortSwigger authentication labs (5 solved) → [`labs/`](labs/)
+- [x] PortSwigger JWT attack labs (5 solved) → [`labs/`](labs/)
 - [x] API keys: header vs query vs cookie placement, and their risks → [`notes/01-api-keys-and-basic-auth.md`](notes/01-api-keys-and-basic-auth.md)
 - [x] Basic Auth: Base64 is not encryption → [`notes/01-api-keys-and-basic-auth.md`](notes/01-api-keys-and-basic-auth.md)
 - [x] Session tokens: cookie flags, fixation, invalidation → [`notes/02-sessions-and-tokens.md`](notes/02-sessions-and-tokens.md)
